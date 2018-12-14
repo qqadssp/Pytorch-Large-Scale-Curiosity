@@ -1,6 +1,6 @@
 # Pytorch-Large-Scale-Curiosity
 
-This is a implementation of Large-Scale-Cruiosity using Pytorch, [here](https://github.com/openai/large-scale-curiosity) is the origin implementation and [here](https://openreview.net/form?id=rJNwDjAqYX) is the paper. I don't use MPI or multiprossing because my laptab can't run with them. I tried but failed.  
+This is a implementation of Large-Scale-Cruiosity using Pytorch, [here](https://github.com/openai/large-scale-curiosity) is the origin implementation and [here](https://openreview.net/forum?id=rJNwDjAqYX) is the paper. I don't use MPI or multiprossing because my laptab can't run with them. I tried but failed.  
 
 I test it on Atari and it works, and I have not run it on Roboschool or Unity3D.Maze. I really need Unity3D.Maze environment but can't find it in the origin implementation.
 
